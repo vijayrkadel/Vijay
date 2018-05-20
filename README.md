@@ -8,4 +8,5 @@ Full Stack Engineer
 4. Fast SQL ( Presto / DRILL )
 5. NoSQL ( Cassandra / MongoDB )
 6. Programming (Java / Python / Scala)
-7. API : DRILL
+7. Web : PHP / HTML
+8. API : DRILL 
