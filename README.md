@@ -9,4 +9,3 @@ Full Stack Engineer
 5. NoSQL ( Cassandra / MongoDB )
 6. Programming (Java / Python / Scala)
 7. Web : PHP / HTML
-8. API : DRILL 
