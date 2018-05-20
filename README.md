@@ -1,6 +1,6 @@
 # Vijay Kadel
 
-Full Stack Developer 
+Full Stack Engineer 
 
 1. Hadoop Cluster set up ( hadoop 1.x -2.x)
 2. ETL ( NIFI / Abinitio /Flume )
